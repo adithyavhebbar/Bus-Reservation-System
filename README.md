@@ -16,8 +16,8 @@ Admin:-
 User
 * User is responsible for scheduling the trip.
 
-![ScreenShot](images/Screenshot (2).png)
+![ScreenShot](images/Screenshot.png)
 
-![ScreenShot](images/Screenshot (3).png)
+![ScreenShot](images/Screenshot3.png)
 
-![ScreenShot](images/Screenshot (4).png)
+![ScreenShot](images/Screenshot4.png)
