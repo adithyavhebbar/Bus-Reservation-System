@@ -3,7 +3,7 @@ Bus Reservation System Using Spring Boot
 
 A RESTful backend Service for bus reservation system.
 
-[ScreenShot](images/Screenshot(41).png)
+![ScreenShot](images/Screenshot(41).png)
 
 There are two roles 
 
